@@ -1,0 +1,441 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav{
+    height: 60px;
+    background-color: white;
+}
+.img2{
+    margin-top: 15px;
+    margin-left: 60px;
+    width: 110px;
+}
+.list ul{
+    font-size: 13px;
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    margin-left: 160px;
+    margin-top: -20px;
+}
+.pp1{
+    margin-left: 900px;
+    margin-top: -20px;
+}
+.font{
+    margin-left: 995px;
+    margin-top: -17px;
+    font-size: 14px;
+}
+.font1{
+    margin-left: 1035px;
+    margin-top: -25px;
+    font-size: 14px;
+}
+.font2{
+    margin-left: 1075px;
+    margin-top: -18px;
+    font-size: 14px;
+}
+.img3{
+    margin-left: 1110px;
+    width: 33px;
+    margin-top: -25px;
+}
+.hh1{
+    margin-top: -355px;
+    margin-left: 112px;
+    line-height: 34.8px;
+    font-size: 29px;
+}
+.pp2{
+    margin-top: 20px;
+    margin-left: 112px;
+    line-height: 24px;
+    font-size: 16px;
+}
+.nav2{
+    margin-left: 500px;
+    font-size: 22px;
+    margin-top: 185px;
+   text-align: center;
+   display: grid;
+   grid-template-columns: 22px 70px 200px;
+}
+.but{
+    width: 100px;
+    height: 35px;
+    background-color: #0067b8;
+    color: white;
+    border: 0px;
+    border-radius: 2px;
+    margin-top: 25px;
+    margin-left: 112px;
+}
+.nav3{
+    margin-left: 600px;
+    font-size: 12px;
+    margin-top: -17px;
+    display: grid;
+    grid-template-columns: 40px 20px;
+}
+.nav4{
+    margin-left: 261px;
+    text-align: center;
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 230px 230px 228px 100px;
+}
+.pp3{
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 165px;
+    text-align: center;
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: 230px 225px 250px 200px;
+    color: #0067b8;
+}
+.line{
+    margin-top: -3px;
+    margin-left: 188px;
+    border-top: 2px solid #0067b8;
+    width: 186px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+
+}
+.line1{
+    margin-top: -2px;
+    margin-left: 425px;
+    border-top: 2px solid #0067b8;
+    width: 166px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+
+}
+.line2{
+    margin-top: -2px;
+    margin-left: 642px;
+    border-top: 2px solid #0067b8;
+    width: 208px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+}
+.line3{
+    margin-top: -2px;
+    margin-left: 915px;
+    border-top: 2px solid #0067b8;
+    width: 114px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+}
+.img5{
+    margin-left: 20px;
+    margin-top: 100px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+}
+.nav5{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: 300px 300px 300px 200px;
+    font-size: 25px;
+}
+.nav6{
+    margin-left: 20px;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 300px 300px 300px 200px;
+}
+.nav7{
+   
+    font-size: 16px;
+    display: flex;
+}
+.but1{
+    color: #0067b8;
+    background-color: white;
+    width: 85px;
+    height: 35px;
+    border: 0px;
+    border-radius: 2px;
+    margin-left: 12px;
+}
+.but2{
+    border: 0px;
+    border-radius: 2px;
+    color: #0067b8;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 200px;
+    width: 120px;
+    height: 35px;
+}
+.but3{
+    border: 0px;
+    border-radius: 2px;
+    width: 150px;
+    height: 35px;
+    color: #0067b8;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: -120px;
+}
+.but4{
+    border: 0px;
+    border-radius: 2px;
+    width: 140px;
+    height: 35px;
+    color: #0067b8;
+    background-color: white;
+    margin-left: 156px;
+}
+.but5{
+    border: 0px;
+    border-radius: 2px;
+    width: 140px;
+    height: 35px;
+    color: #0067b8;
+    background-color: white;
+    margin-left: 150px;
+}
+.font5{
+    margin-top: 8px;
+    color: #0067b8;
+}
+.font3{
+    color: #0067b8;
+    margin-left: 420px;
+    margin-top: -60px;
+}
+.font4{
+    color: #0067b8;
+    margin-left: 450px;
+    margin-top: 12px;
+}
+.img6{
+    margin-top: 100px;
+    text-align: center;
+}
+.nav8{
+    height: 50%;
+}
+.nav9{
+    margin-top: -400px;
+    margin-left: 200px;
+    font-size: 29px;
+}
+.nav10{
+    margin-top: 15px;
+    margin-left: 200px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.but6{
+    color: white;
+    background-color: #0067b8;
+    width: 150px;
+    height: 35px;
+    border: 0px;
+    border-radius: 2px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.nav11{
+    margin-left: 53px;
+    margin-top: 250px;
+    font-size: 29px;
+}
+.img7{
+    margin-top: 10px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 280px 280px 280px 0px;
+}
+.but7{
+    color: black;
+    background-color: orange;
+    width: 60px;
+    height: 35px;
+    border: 0px;
+    margin-left: 0px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+.but8{
+    color: black;
+    background-color: orange;
+    width: 60px;
+    height: 35px;
+    border: 0px;
+    margin-left: 212px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+.nav12{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 276px 285px 280px 300px;
+    font-size: 24px;
+}
+.nav13{
+    font-size: 16px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 276px 285px 280px 300px;
+}
+.nav14{
+    font-size: 16px;
+    display: grid;
+    grid-template-columns: 272px 300px;
+}    
+.but9{
+    color: #0067b8;
+    background-color: white;
+    width: 85px;
+    height: 35px;
+    border: 0px;
+    border-radius: 2px;
+    margin-left: -8px;
+}
+.nav15{
+    font-size: 16px;
+    display: grid;
+    grid-template-columns: 280px 400px;
+    margin-top: -45px;
+}    
+.but10{
+    color: #0067b8;
+    background-color: white;
+    width: 100px;
+    height: 35px;
+    border: 0px;
+    border-radius: 2px;
+    margin-left: 550px;
+}
+.font6{
+    margin-left: 75px;
+    margin-top: -12px;
+    color: #0067b8;
+    font-size: 14px;
+    display: grid;
+    grid-template-columns: 272px 100px;
+}
+.font7{
+    font-size: 14px;
+    color: #0067b8;
+    margin-left: 640px;
+    margin-top: -24px;
+    display: grid;
+    grid-template-columns: 282px 100px;
+}
+.img8{
+    margin-top: 100px;
+    text-align: center;
+}
+.nav17{
+    position: absolute;
+    font-size: 45px;
+    margin-top: -455px;
+    margin-left: 55px;
+    width: 426px;
+    height: 357px;
+    background-color: white;
+}
+.para{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.pp13{
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 20px;
+}
+.but11{
+    width: 305px;
+    height: 55px;
+    text-align: left;
+    color: white;
+    border-radius: 3px;
+    border: 0px;
+    background-color: #0067b8;
+    margin-left: 51px;
+    margin-top: 22px;
+    padding-left: 20px;
+}
+.pp14{
+    font-size: 16px;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.img9{
+    margin-top: -25px;
+    margin-left: 150px;
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+}
+
+.nav19{
+    margin-top: 120px;
+    margin-left: -55px;
+    width: 1200px;
+    height: 400px;
+    background-color: #f2f2f2;
+}
+.table{
+    width: 100%;
+    font-size: 15px;
+    text-align: left;
+    line-height: 50px;
+    padding-top: 30px;
+    padding-left: 30px;
+    color: #616161;
+}
+
+.t{
+    color: #616161;
+    text-align: left;
+    font-size: 11px;
+    line-height: 22px;
+}
+.table body{
+    padding-top: 200px;
+}
+.font8{
+    display: grid;
+    grid-template-columns: 35px 200px;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+.nav20{
+    margin-top: -32px;
+}
+.pp15{
+    font-size: 12px;
+}
+.img10{
+    margin-left: 180px;
+   
+}
+.pp16{
+    font-size: 12px;
+    margin-left: 230px;
+    margin-top: -24px;
+}
+.list2 ul{
+    font-size: 11px;
+    display: flex;
+    list-style: none;
+    gap: 18px;
+    margin-left: 550px;
+    margin-top: -20px;
+    color: #616161;
+
+}
